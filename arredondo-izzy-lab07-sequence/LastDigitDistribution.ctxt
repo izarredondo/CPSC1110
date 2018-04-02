@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LastDigitDistribution()
+comment0.text=\n\ \ \ \ \ \ Constructs\ a\ distribution\ whose\ counters\ are\ set\ to\ zero.\n
+comment1.params=seq\ valuesToProcess
+comment1.target=void\ process(Sequence,\ int)
+comment1.text=\n\ \ \ \ \ \ Processes\ values\ from\ this\ sequence.\n\ \ \ \ \ \ @param\ seq\ the\ sequence\ from\ which\ to\ obtain\ the\ values\n\ \ \ \ \ \ @param\ valuesToProcess\ the\ number\ of\ values\ to\ process\n
+comment2.params=
+comment2.target=void\ display()
+comment2.text=\n\ \ \ \ \ \ Displays\ the\ counter\ values\ of\ this\ distribution.\n
+numComments=3

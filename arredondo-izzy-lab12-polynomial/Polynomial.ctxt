@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Polynomial()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Polynomial\n
+comment1.params=
+comment1.target=void\ add()
+comment2.params=
+comment2.target=void\ multiply()
+comment3.params=
+comment3.target=void\ print()
+numComments=4

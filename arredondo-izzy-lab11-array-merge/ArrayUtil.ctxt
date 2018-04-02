@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=length\ n
+comment0.target=int[]\ randomIntArray(int,\ int)
+comment0.text=\n\ Creates\ an\ array\ filled\ with\ random\ values.\n\ \n\ @param\ length\n\ \ \ \ \ \ \ \ \ \ \ \ the\ length\ of\ the\ array\n\ @param\ n\n\ \ \ \ \ \ \ \ \ \ \ \ the\ number\ of\ possible\ random\ values\n\ @return\ an\ array\ filled\ with\ length\ numbers\ between\ 0\ and\ n\ -\ 1\n
+comment1.params=a\ i\ j
+comment1.target=void\ swap(int[],\ int,\ int)
+comment1.text=\n\ Swaps\ two\ entries\ of\ an\ array.\n\ \n\ @param\ a\n\ \ \ \ \ \ \ \ \ \ \ \ the\ array\n\ @param\ i\n\ \ \ \ \ \ \ \ \ \ \ \ the\ first\ position\ to\ swap\n\ @param\ j\n\ \ \ \ \ \ \ \ \ \ \ \ the\ second\ position\ to\ swap\n
+numComments=2
