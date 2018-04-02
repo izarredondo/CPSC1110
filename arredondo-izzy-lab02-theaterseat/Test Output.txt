@@ -1,0 +1,161 @@
+
+       [0]  [1]  [2]  [3]  [4]  [5]  [6]  [7]  [8]  [9]
+  [0]   10   10   10   10   10   10   10   10   10   10
+  [1]   10   10   10   10   10   10   10   10   10   10
+  [2]   10   10   10   10   10   10   10   10   10   10
+  [3]   10   10   20   20   20   20   20   20   10   10
+  [4]   10   10   20   20   20   20   20   20   10   10
+  [5]   10   10   20   20   20   20   20   20   10   10
+  [6]   20   20   30   30   40   40   30   30   20   20
+  [7]   20   30   30   40   50   50   40   30   30   20
+  [8]   30   40   50   50   50   50   50   50   40   30
+Tickets available by price:
+$10: 42
+$20: 24
+$30: 10
+$40: 6
+$50: 8
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+p
+You chose option: Price
+Enter Price (10,20,30,40,50): 50
+
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+p
+You chose option: Price
+Enter Price (10,20,30,40,50): 50
+
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+p
+You chose option: Price
+Enter Price (10,20,30,40,50): 50
+
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+p
+You chose option: Price
+Enter Price (10,20,30,40,50): 50
+
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+p
+You chose option: Price
+Enter Price (10,20,30,40,50): 50
+
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+p
+You chose option: Price
+Enter Price (10,20,30,40,50): 50
+
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+p
+You chose option: Price
+Enter Price (10,20,30,40,50): 50
+
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+p
+You chose option: Price
+Enter Price (10,20,30,40,50): 50
+
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+p
+You chose option: Price
+Enter Price (10,20,30,40,50): 50
+
+You chose to buy a ticket with price: $50
+Sorry, no more tickets available for this price
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+p
+You chose option: Price
+Enter Price (10,20,30,40,50): 50
+
+You chose to buy a ticket with price: $50
+Sorry, no more tickets available for this price
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+l
+You chose option: Location
+Enter Row and Column separated by a space:
+0 0
+You chose row: 0, col: 0
+Congratulations, you purchased a ticket for at: 0, 0
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+l
+You chose option: Location
+Enter Row and Column separated by a space:
+0 1
+You chose row: 0, col: 1
+Congratulations, you purchased a ticket for at: 0, 1
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+l
+You chose option: Location
+Enter Row and Column separated by a space:
+0 2
+You chose row: 0, col: 2
+Congratulations, you purchased a ticket for at: 0, 2
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+l
+You chose option: Location
+Enter Row and Column separated by a space:
+0 3
+You chose row: 0, col: 3
+Congratulations, you purchased a ticket for at: 0, 3
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+l
+You chose option: Location
+Enter Row and Column separated by a space:
+0 4
+You chose row: 0, col: 4
+Congratulations, you purchased a ticket for at: 0, 4
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+r
+
+       [0]  [1]  [2]  [3]  [4]  [5]  [6]  [7]  [8]  [9]
+  [0]    0    0    0    0    0   10   10   10   10   10
+  [1]   10   10   10   10   10   10   10   10   10   10
+  [2]   10   10   10   10   10   10   10   10   10   10
+  [3]   10   10   20   20   20   20   20   20   10   10
+  [4]   10   10   20   20   20   20   20   20   10   10
+  [5]   10   10   20   20   20   20   20   20   10   10
+  [6]   20   20   30   30   40   40   30   30   20   20
+  [7]   20   30   30   40    0    0   40   30   30   20
+  [8]   30   40    0    0    0    0    0    0   40   30
+Tickets available by price:
+$10: 37
+$20: 24
+$30: 10
+$40: 6
+$50: 0
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+q
+Good bye!!!

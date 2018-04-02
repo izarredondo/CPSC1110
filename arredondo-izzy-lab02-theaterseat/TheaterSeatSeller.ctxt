@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TheaterSeatSeller()
+comment1.params=
+comment1.target=void\ printSeats()
+comment2.params=price
+comment2.target=boolean\ getByPrice(int)
+comment3.params=row\ col
+comment3.target=boolean\ getByLoc(int,\ int)
+comment4.params=
+comment4.target=void\ start()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

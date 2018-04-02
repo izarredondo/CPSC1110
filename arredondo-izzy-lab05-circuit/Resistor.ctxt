@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=Resistor(double)
+comment1.params=
+comment1.target=double\ getResistance()
+numComments=2

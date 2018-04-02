@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=secret1\ secret2\ secret3
+comment0.target=ComboLock(int,\ int,\ int)
+comment0.text=\n\ \ \ \ Initializes\ the\ combination\ of\ the\ lock.\n\n
+comment1.params=
+comment1.target=void\ reset()
+comment1.text=\n\ \ \ \ Resets\ the\ state\ of\ the\ lock\ so\ that\ it\ can\ be\ opened\ again.\n
+comment2.params=ticks
+comment2.target=void\ turnLeft(int)
+comment2.text=\n\ \ \ \ Turns\ lock\ left\ given\ number\ of\ ticks.\n\ \ \ \ @param\ ticks\ number\ of\ ticks\ to\ turn\ left\n
+comment3.params=ticks
+comment3.target=void\ turnRight(int)
+comment3.text=\n\ \ \ \ Turns\ lock\ right\ given\ number\ of\ ticks\n\ \ \ \ @param\ ticks\ number\ of\ ticks\ to\ turn\ right\n
+comment4.params=
+comment4.target=boolean\ open()
+comment4.text=\n\ \ \ \ Returns\ true\ if\ the\ lock\ can\ be\ opened\ now\n\ \ \ \ @return\ true\ if\ lock\ is\ in\ open\ state\n
+comment5.params=
+comment5.target=int\ getCurrentNumber()
+comment5.text=\n\ \ \ \ Returns\ current\ value\ dial\ is\ pointing\ at\n\ \ \ \ @return\ value\ dial\ is\ pointing\ at\ currently\n
+numComments=6
